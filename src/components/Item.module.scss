@@ -1,0 +1,20 @@
+.item {
+    padding: 5px;
+    width: 400px;
+    max-width: 96%;
+    margin: auto;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background: #ececec;
+}
+
+.paragraph {
+    display: inline-block;
+}
+
+.button {
+    width: 30px;
+    height: 30px;
+}
